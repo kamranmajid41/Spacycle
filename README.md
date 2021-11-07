@@ -1,2 +1,2 @@
-# Spacycle
-One mans junk is another mans jet fuel. 
+# SPACYCLE
+"One mans junk is another mans jet fuel."
